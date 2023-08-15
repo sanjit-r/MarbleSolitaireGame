@@ -24,3 +24,9 @@ triangular -size 4 produces a triangle-shaped board (as in this assignment) with
 european -hole 1 4 produces an octagon-shaped board (as in this assignment) with side-length 3, and the initial hole in the middle of the top edge.
 
 This is not an exhaustive list; other command lines are possible.
+
+Run the main method in "MarbleSolitaire.java" to play the game.
+
+The game runs by command line inputs with 4 integer arguments, seperated by spaces. The first 2 arguments select the marble that you want to move,
+and the second 2 select the space that you want to move the marble to.
+
